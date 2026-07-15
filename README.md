@@ -1,6 +1,8 @@
 # Hi, I’m Henrietta 
 Data Analyst | SQL · Excel · PowerPoint
 I turn raw data into decisions. I design relational databases, write queries that answer real business questions, and package findings into reports people actually use.
+
+
 🔧 What I Work With
 	•	Databases: MySQL, SQLite — schema design, relationships, constraints
 	•	Analysis: Complex SQL queries, joins, aggregations, subqueries
