@@ -1,58 +1,91 @@
-# Hi there, I'm Henrietta Chinyere 
+```markdown
+#  Hi, I'm Henrietta Chinyere
+
+###  Data Analyst | SQL | Power BI | Excel | Python | Tableau
+
+> Transforming data into actionable insights and business solutions.
+
+---
 
 ##  About Me
 
-I'm a passionate **Software Developer** who enjoys building clean, scalable, and user-focused applications. I'm committed to continuous learning, exploring modern technologies, and creating solutions that solve real-world problems.
+I'm a **Data Analyst** passionate about using data to solve real-world business problems and support informed decision-making. I enjoy turning complex datasets into clear, actionable insights through data analysis, visualization, and storytelling.
 
-I believe in writing maintainable code, collaborating with others, and constantly improving my craft as a developer.
-
--  Currently working on personal and collaborative projects
--  Continuously learning and improving my software engineering skills
--  Interested in Web Development, Automation, and Developer Tools
--  Open to collaborating on impactful open-source and community projects
--  Fun fact: I enjoy learning new technologies and turning ideas into reality.
+My work spans the entire analytics process—from data cleaning and exploration to building interactive dashboards and generating reports that drive business value. I'm continuously expanding my skills by working on practical projects and exploring new technologies in data analytics and business intelligence.
 
 ---
 
-##  Tech Stack
+##  Technical Skills
 
-<!-- Replace or remove technologies as needed -->
-
-**Languages**
-- JavaScript
+###  Programming & Databases
+- SQL
 - Python
-- HTML
-- CSS
+- MySQL
 
-**Frameworks & Libraries**
-- React
-- Node.js
-- Express
+###  Data Analysis
+- Microsoft Excel
+- Power Query
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
-**Tools & Platforms**
+###  Data Visualization
+- Power BI
+- Tableau
+
+### 🔧 Tools & Technologies
 - Git
 - GitHub
-- VS Code
 
 ---
 
-##  Current Goals
+##  Featured Projects
 
--  Build more real-world projects
--  Strengthen my software engineering fundamentals
--  Contribute to open-source projects
--  Connect and collaborate with other developers
+Here are some of the projects you'll find in my repositories:
+
+-  Interactive Power BI Dashboards
+-  SQL Database Design & Querying
+-  Business Intelligence Reports
+-  Data Cleaning & Exploratory Data Analysis
+-  Excel Reporting & Automation
+-  Python Data Analysis Projects
+
+---
+
+##  Currently Learning
+
+- Advanced SQL
+- Python for Data Analytics
+- Machine Learning Fundamentals
+- Data Engineering Concepts
+- Cloud Analytics
+
+---
+
+##  GitHub Stats
+
+> Replace **YOUR_USERNAME** with your GitHub username.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibehenrietta03-prog&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibehenrietta03-prog&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
 
 ---
 
 ##  Connect With Me
 
-- GitHub: https://github.com/ibehenrietta03-prog
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: ibehenrietta03@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]
 
 ---
 
+###  Quote
 
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-	
+---
+
+ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+```
